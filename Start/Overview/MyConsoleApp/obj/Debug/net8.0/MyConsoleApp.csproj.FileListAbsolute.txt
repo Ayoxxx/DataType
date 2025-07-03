@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\HP\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
